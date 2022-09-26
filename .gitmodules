@@ -4,3 +4,30 @@
 [submodule "02-TypeScript"]
 	path = 02-TypeScript
 	url = git@github.com:Sunkisot/02-TypeScript.git
+[submodule "03-vue"]
+	path = 03-vue
+	url = git@github.com:Sunkisot/03-vue.git
+[submodule "04-webpack"]
+	path = 04-webpack
+	url = git@github.com:Sunkisot/04-webpack.git
+[submodule "05-React"]
+	path = 05-React
+	url = git@github.com:Sunkisot/05-React.git
+[submodule "06-webSocket"]
+	path = 06-webSocket
+	url = git@github.com:Sunkisot/06-webSocket.git
+[submodule "07-nodeAPI"]
+	path = 07-nodeAPI
+	url = git@github.com:Sunkisot/07-nodeAPI.git
+[submodule "08-nodeNetwork"]
+	path = 08-nodeNetwork
+	url = git@github.com:Sunkisot/08-nodeNetwork.git
+[submodule "09-EventLoop"]
+	path = 09-EventLoop
+	url = git@github.com:Sunkisot/09-EventLoop.git
+[submodule "10-NoSql"]
+	path = 10-NoSql
+	url = git@github.com:Sunkisot/10-NoSql.git
+[submodule "11-indexedDB"]
+	path = 11-indexedDB
+	url = git@github.com:Sunkisot/11-indexedDB.git
