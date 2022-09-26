@@ -31,3 +31,12 @@
 [submodule "11-indexedDB"]
 	path = 11-indexedDB
 	url = git@github.com:Sunkisot/11-indexedDB.git
+[submodule "12-git"]
+	path = 12-git
+	url = git@github.com:Sunkisot/12-git.git
+[submodule "13-ramda"]
+	path = 13-ramda
+	url = git@github.com:Sunkisot/13-ramda.git
+[submodule "14-Ast"]
+	path = 14-Ast
+	url = git@github.com:Sunkisot/14-Ast.git
