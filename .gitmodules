@@ -1,3 +1,6 @@
 [submodule "01-flow"]
 	path = 01-flow
 	url = git@github.com:Sunkisot/01-flow.git
+[submodule "02-TypeScript"]
+	path = 02-TypeScript
+	url = git@github.com:Sunkisot/02-TypeScript.git
