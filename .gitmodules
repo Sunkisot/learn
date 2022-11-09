@@ -43,3 +43,6 @@
 [submodule "15-Library"]
 	path = 15-Library
 	url = git@github.com:Sunkisot/15-Library.git
+[submodule "16-Rxjs"]
+	path = 16-Rxjs
+	url = git@github.com:Sunkisot/16-Rxjs.git
