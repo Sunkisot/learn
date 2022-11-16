@@ -46,6 +46,3 @@
 [submodule "16-Rxjs"]
 	path = 16-Rxjs
 	url = git@github.com:Sunkisot/16-Rxjs.git
-[submodule "17-template"]
-	path = 17-template
-	url = git@github.com:Sunkisot/17-template.git
